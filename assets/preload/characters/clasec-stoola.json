@@ -1,103 +1,103 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Dad Sing Note LEFT"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
 			"fps": 24,
-			"anim": "singDOWN",
-			"indices": [],
-			"name": "Dad Sing Note DOWN"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singUP",
-			"indices": [],
-			"name": "Dad Sing Note UP"
-		},
-		{
-			"offsets": [
-				0,
-				0
-			],
-			"loop": false,
-			"fps": 24,
-			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Dad Sing Note RIGHT"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				0,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
+			"name": "Dad Sing Note LEFT",
 			"indices": []
 		},
 		{
 			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dad Sing Note DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dad Sing Note UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dad Sing Note RIGHT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
 			"offsets": [
 				193,
 				35
 			],
-			"anim": "Look",
+			"loop": false,
 			"fps": 24,
-			"name": "looking",
-			"indices": []
+			"anim": "Look",
+			"indices": [],
+			"name": "looking"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				151,
 				-4
 			],
-			"anim": "Come",
+			"loop": false,
 			"fps": 24,
-			"name": "running",
-			"indices": []
+			"anim": "Come",
+			"indices": [],
+			"name": "running"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				196,
 				410
 			],
-			"anim": "Fall",
+			"loop": false,
 			"fps": 24,
-			"name": "falling",
-			"indices": []
+			"anim": "Fall",
+			"indices": [],
+			"name": "falling"
 		},
 		{
-			"loop": true,
 			"offsets": [
 				137,
 				28
 			],
-			"anim": "Charge",
+			"loop": true,
 			"fps": 24,
-			"name": "ready",
-			"indices": []
+			"anim": "Charge",
+			"indices": [],
+			"name": "ready"
 		}
 	],
 	"no_antialiasing": false,
@@ -106,7 +106,7 @@
 		190,
 		270
 	],
-	"healthicon": "Stella",
+	"healthicon": "stella-player",
 	"flip_x": false,
 	"healthbar_colors": [
 		245,

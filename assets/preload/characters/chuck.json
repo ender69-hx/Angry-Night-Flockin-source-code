@@ -1,68 +1,68 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
 				-10,
 				11
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Up"
+			"fps": 16,
+			"name": "Up",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-9,
 				-1
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Down"
+			"fps": 16,
+			"name": "Down",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				7,
 				2
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Left"
+			"fps": 16,
+			"name": "Left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				-28,
 				4
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Right"
+			"fps": 16,
+			"name": "Right",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"loop": false,
-			"fps": 16,
 			"anim": "idle",
-			"indices": [],
-			"name": "Idle"
+			"fps": 16,
+			"name": "Idle",
+			"indices": []
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/Chuck",
 	"position": [
 		40,
 		440
 	],
-	"healthicon": "Chuck",
+	"healthicon": "chuck",
 	"flip_x": false,
 	"healthbar_colors": [
 		255,
