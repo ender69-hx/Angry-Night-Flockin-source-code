@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				12,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				15,
+				-35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-3,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-13,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				41,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "what",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "what"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/challeng-red/RedSide",
+	"position": [
+		-30,
+		225
+	],
+	"healthicon": "neiderjerk",
+	"flip_x": false,
+	"healthbar_colors": [
+		117,
+		203,
+		227
+	],
+	"camera_position": [
+		30,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

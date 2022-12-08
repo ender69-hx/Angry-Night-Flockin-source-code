@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="red.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Classic Red miss0000" x="25" y="25" width="505" height="414"/>
+	<SubTexture name="Red Annoyed0000" x="555" y="25" width="493" height="395" frameX="0" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0001" x="555" y="25" width="493" height="395" frameX="0" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0002" x="1073" y="25" width="493" height="397" frameX="-3" frameY="-6" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0003" x="1073" y="25" width="493" height="397" frameX="-3" frameY="-6" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0004" x="1073" y="25" width="493" height="397" frameX="-3" frameY="-6" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0005" x="1073" y="25" width="493" height="397" frameX="-3" frameY="-6" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0006" x="1591" y="25" width="420" height="422" frameX="-98" frameY="0" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0007" x="1591" y="25" width="420" height="422" frameX="-98" frameY="0" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0008" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0009" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0010" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0011" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0012" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0013" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0014" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0015" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0016" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0017" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0018" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0019" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0020" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0021" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0022" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0023" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0024" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0025" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0026" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0027" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0028" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0029" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0030" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0031" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0032" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0033" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0034" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0035" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0036" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0037" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0038" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0039" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0040" x="2036" y="25" width="419" height="421" frameX="-101" frameY="-4" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0041" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0042" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0043" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0044" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0045" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0046" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0047" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0048" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0049" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0050" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0051" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0052" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0053" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0054" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0055" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0056" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0057" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0058" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0059" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0060" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0061" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0062" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0063" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0064" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0065" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0066" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0067" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Annoyed0068" x="2480" y="25" width="422" height="424" frameX="-99" frameY="-2" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Down0000" x="2927" y="25" width="482" height="401"/>
+	<SubTexture name="Red Idle0000" x="555" y="25" width="493" height="395" frameX="0" frameY="0" frameWidth="521" frameHeight="426"/>
+	<SubTexture name="Red Left0000" x="3434" y="25" width="481" height="402"/>
+	<SubTexture name="Red Right0000" x="25" y="474" width="492" height="397"/>
+	<SubTexture name="Red Up0000" x="542" y="474" width="489" height="392"/>
+	<SubTexture name="Red Yell0000" x="1056" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0001" x="1056" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0002" x="1056" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0003" x="1056" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0004" x="1056" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0005" x="1056" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0006" x="1056" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0007" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0008" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0009" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0010" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0011" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0012" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0013" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0014" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0015" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0016" x="1503" y="474" width="422" height="424" frameX="-1" frameY="-11" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0017" x="1950" y="474" width="430" height="428" frameX="0" frameY="-13" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0018" x="1950" y="474" width="430" height="428" frameX="0" frameY="-13" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0019" x="1950" y="474" width="430" height="428" frameX="0" frameY="-13" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0020" x="2405" y="474" width="423" height="423" frameX="-18" frameY="-2" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0021" x="2405" y="474" width="423" height="423" frameX="-18" frameY="-2" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0022" x="2405" y="474" width="423" height="423" frameX="-18" frameY="-2" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0023" x="2405" y="474" width="423" height="423" frameX="-18" frameY="-2" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0024" x="2853" y="474" width="423" height="423" frameX="-16" frameY="-5" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0025" x="2853" y="474" width="423" height="423" frameX="-16" frameY="-5" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0026" x="2853" y="474" width="423" height="423" frameX="-16" frameY="-5" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0027" x="2853" y="474" width="423" height="423" frameX="-16" frameY="-5" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0028" x="2853" y="474" width="423" height="423" frameX="-16" frameY="-5" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0029" x="2853" y="474" width="423" height="423" frameX="-16" frameY="-5" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0030" x="2853" y="474" width="423" height="423" frameX="-16" frameY="-5" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0031" x="2853" y="474" width="423" height="423" frameX="-16" frameY="-5" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0032" x="3301" y="474" width="427" height="426" frameX="-7" frameY="-7" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0033" x="3301" y="474" width="427" height="426" frameX="-7" frameY="-7" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0034" x="3301" y="474" width="427" height="426" frameX="-7" frameY="-7" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0035" x="3301" y="474" width="427" height="426" frameX="-7" frameY="-7" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0036" x="25" y="927" width="427" height="426" frameX="-12" frameY="-2" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0037" x="25" y="927" width="427" height="426" frameX="-12" frameY="-2" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red Yell0038" x="477" y="927" width="429" height="426" frameX="-9" frameY="0" frameWidth="441" frameHeight="441"/>
+	<SubTexture name="Red alt Idle0000" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0001" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0002" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0003" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0004" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0005" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0006" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0007" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0008" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0009" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0010" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0011" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0012" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0013" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0014" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0015" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0016" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0017" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0018" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0019" x="1378" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0020" x="1378" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0021" x="1378" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0022" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0023" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0024" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0025" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0026" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0027" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0028" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0029" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0030" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0031" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0032" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0033" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0034" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0035" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0036" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0037" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0038" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0039" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0040" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0041" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0042" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0043" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0044" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0045" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0046" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0047" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0048" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0049" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0050" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0051" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0052" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0053" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0054" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0055" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0056" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0057" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0058" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0059" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0060" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0061" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0062" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0063" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0064" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0065" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0066" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0067" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0068" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0069" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0070" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0071" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0072" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0073" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0074" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0075" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0076" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0077" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0078" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0079" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0080" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0081" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0082" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0083" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0084" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0085" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0086" x="1378" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0087" x="1378" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0088" x="1378" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0089" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0090" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0091" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0092" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0093" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0094" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0095" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0096" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0097" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0098" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0099" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0100" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0101" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0102" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0103" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0104" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0105" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0106" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0107" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0108" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0109" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0110" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0111" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0112" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0113" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0114" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0115" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0116" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0117" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0118" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0119" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0120" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0121" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0122" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0123" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0124" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0125" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0126" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0127" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0128" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0129" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0130" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0131" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0132" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0133" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0134" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0135" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0136" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0137" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0138" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0139" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0140" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0141" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0142" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0143" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0144" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0145" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0146" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0147" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0148" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0149" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0150" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0151" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0152" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0153" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0154" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0155" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0156" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0157" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0158" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0159" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0160" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0161" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0162" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red alt Idle0163" x="931" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0000" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0001" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0002" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0003" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0004" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0005" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0006" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0007" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0008" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0009" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0010" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0011" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0012" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0013" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0014" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0015" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0016" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0017" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0018" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0019" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0020" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0021" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0022" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0023" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0024" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0025" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0026" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0027" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0028" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0029" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0030" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0031" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0032" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0033" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0034" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0035" x="1825" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0036" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0037" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0038" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0039" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0040" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0041" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0042" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0043" x="3166" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0044" x="3166" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0045" x="3166" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0046" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0047" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0048" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0049" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0050" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0051" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0052" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0053" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0054" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0055" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0056" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0057" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0058" x="3166" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0059" x="3166" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0060" x="3166" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0061" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0062" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0063" x="2719" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0064" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0065" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0066" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0067" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0068" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0069" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0070" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0071" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0072" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0073" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0074" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0075" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0076" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0077" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0078" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0079" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0080" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0081" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0082" x="2272" y="927" width="422" height="424"/>
+	<SubTexture name="Red idiot0083" x="2272" y="927" width="422" height="424"/>
+</TextureAtlas>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bomb.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bomb Idle0000" x="15" y="15" width="657" height="684"/>
+	<SubTexture name="Bomb Idle0001" x="687" y="15" width="651" height="684" frameX="0" frameY="0" frameWidth="657" frameHeight="684"/>
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Dad Sing Note LEFT"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Dad Sing Note DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Dad Sing Note UP"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Dad Sing Note RIGHT"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				193,
+				35
+			],
+			"anim": "Look",
+			"fps": 24,
+			"name": "looking",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				151,
+				-4
+			],
+			"anim": "Come",
+			"fps": 24,
+			"name": "running",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				196,
+				410
+			],
+			"anim": "Fall",
+			"fps": 24,
+			"name": "falling",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				137,
+				28
+			],
+			"anim": "Charge",
+			"fps": 24,
+			"name": "ready",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/clasec stoola",
+	"position": [
+		190,
+		270
+	],
+	"healthicon": "Stella",
+	"flip_x": false,
+	"healthbar_colors": [
+		245,
+		174,
+		184
+	],
+	"camera_position": [
+		-50,
+		-110
+	],
+	"sing_duration": 4.20000000000001,
+	"scale": 1
+}

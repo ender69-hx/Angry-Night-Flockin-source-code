@@ -1,0 +1,135 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				2,
+				1
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Down"
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Left"
+		},
+		{
+			"offsets": [
+				-6,
+				4
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Right"
+		},
+		{
+			"offsets": [
+				-8,
+				6
+			],
+			"loop": false,
+			"fps": 16,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 16,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				9
+			],
+			"anim": "Start",
+			"fps": 16,
+			"name": "Start",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				9
+			],
+			"anim": "idle",
+			"fps": 16,
+			"name": "Start",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"offsets": [
+				0,
+				4
+			],
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				5,
+				5,
+				5
+			],
+			"fps": 24,
+			"anim": "Jampscure",
+			"loop": false,
+			"name": "Jampscure"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Terence",
+	"position": [
+		280,
+		70
+	],
+	"healthicon": "Terence",
+	"flip_x": false,
+	"healthbar_colors": [
+		186,
+		38,
+		69
+	],
+	"camera_position": [
+		-210,
+		110
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

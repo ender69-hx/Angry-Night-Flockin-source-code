@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="chuck.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chuck idle0000" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0001" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0002" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0003" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0004" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0005" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0006" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0007" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0008" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0009" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0010" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0011" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0012" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0013" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0014" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0015" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0016" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0017" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0018" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0019" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0020" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0021" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0022" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck idle0023" x="15" y="15" width="594" height="479"/>
+	<SubTexture name="chuck shoot0000" x="624" y="15" width="753" height="494" frameX="-1" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0001" x="1392" y="15" width="1348" height="494" frameX="-3" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0002" x="1392" y="15" width="1348" height="494" frameX="-3" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0003" x="2755" y="15" width="858" height="494" frameX="-2" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0004" x="2755" y="15" width="858" height="494" frameX="-2" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0005" x="2755" y="15" width="858" height="494" frameX="-2" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0006" x="15" y="524" width="856" height="498" frameX="-2" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0007" x="15" y="524" width="856" height="498" frameX="-2" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0008" x="886" y="524" width="849" height="516" frameX="0" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0009" x="886" y="524" width="849" height="516" frameX="0" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0010" x="886" y="524" width="849" height="516" frameX="0" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0011" x="886" y="524" width="849" height="516" frameX="0" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shoot0012" x="886" y="524" width="849" height="516" frameX="0" frameY="0" frameWidth="1351" frameHeight="516"/>
+	<SubTexture name="chuck shot20000" x="1750" y="524" width="926" height="696"/>
+	<SubTexture name="chuck shot20001" x="1750" y="524" width="926" height="696"/>
+	<SubTexture name="chuck shot20002" x="2691" y="524" width="923" height="691" frameX="-3" frameY="0" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20003" x="2691" y="524" width="923" height="691" frameX="-3" frameY="0" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20004" x="15" y="1235" width="911" height="691" frameX="-5" frameY="0" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20005" x="15" y="1235" width="911" height="691" frameX="-5" frameY="0" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20006" x="941" y="1235" width="513" height="477" frameX="-92" frameY="-49" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20007" x="941" y="1235" width="513" height="477" frameX="-92" frameY="-49" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20008" x="1469" y="1235" width="512" height="476" frameX="-91" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20009" x="1469" y="1235" width="512" height="476" frameX="-91" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20010" x="1469" y="1235" width="512" height="476" frameX="-91" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20011" x="1469" y="1235" width="512" height="476" frameX="-91" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20012" x="1469" y="1235" width="512" height="476" frameX="-91" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20013" x="1469" y="1235" width="512" height="476" frameX="-91" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20014" x="1469" y="1235" width="512" height="476" frameX="-91" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20015" x="1996" y="1235" width="510" height="477" frameX="-92" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20016" x="1996" y="1235" width="510" height="477" frameX="-92" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20017" x="1996" y="1235" width="510" height="477" frameX="-92" frameY="-55" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20018" x="2521" y="1235" width="507" height="460" frameX="-97" frameY="-72" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20019" x="2521" y="1235" width="507" height="460" frameX="-97" frameY="-72" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20020" x="3043" y="1235" width="561" height="399" frameX="-186" frameY="-215" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20021" x="3043" y="1235" width="561" height="399" frameX="-186" frameY="-215" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20022" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20023" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20024" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20025" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20026" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20027" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20028" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20029" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20030" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20031" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20032" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20033" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20034" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20035" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20036" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20037" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20038" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20039" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20040" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20041" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20042" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20043" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20044" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20045" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20046" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20047" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20048" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20049" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20050" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20051" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20052" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20053" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20054" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20055" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20056" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20057" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20058" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20059" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20060" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20061" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20062" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20063" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20064" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20065" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20066" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20067" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20068" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20069" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20070" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20071" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20072" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20073" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20074" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20075" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20076" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20077" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20078" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20079" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20080" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20081" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20082" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20083" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20084" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20085" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20086" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20087" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20088" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20089" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20090" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20091" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20092" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20093" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20094" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20095" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20096" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20097" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20098" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20099" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20100" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20101" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20102" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20103" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20104" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20105" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20106" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20107" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20108" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20109" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20110" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20111" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20112" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20113" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20114" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20115" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20116" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20117" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20118" x="15" y="1941" width="563" height="403" frameX="-183" frameY="-211" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20119" x="593" y="1941" width="562" height="399" frameX="-184" frameY="-215" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20120" x="593" y="1941" width="562" height="399" frameX="-184" frameY="-215" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20121" x="593" y="1941" width="562" height="399" frameX="-184" frameY="-215" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20122" x="1170" y="1941" width="567" height="410" frameX="-177" frameY="-204" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20123" x="1170" y="1941" width="567" height="410" frameX="-177" frameY="-204" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20124" x="1752" y="1941" width="516" height="480" frameX="-87" frameY="-45" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20125" x="1752" y="1941" width="516" height="480" frameX="-87" frameY="-45" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20126" x="1752" y="1941" width="516" height="480" frameX="-87" frameY="-45" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20127" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20128" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20129" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20130" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20131" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20132" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20133" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20134" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20135" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20136" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20137" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20138" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20139" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20140" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20141" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20142" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20143" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck shot20144" x="2283" y="1941" width="512" height="475" frameX="-92" frameY="-50" frameWidth="926" frameHeight="696"/>
+	<SubTexture name="chuck slingshot down0000" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0001" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0002" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0003" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0004" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0005" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0006" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0007" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0008" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0009" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0010" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0011" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0012" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0013" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0014" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0015" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0016" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0017" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0018" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0019" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0020" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0021" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0022" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot down0023" x="2810" y="1941" width="760" height="488"/>
+	<SubTexture name="chuck slingshot idle0000" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0001" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0002" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0003" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0004" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0005" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0006" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0007" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0008" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0009" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0010" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0011" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0012" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0013" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0014" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0015" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0016" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0017" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0018" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0019" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0020" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0021" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0022" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot idle0023" x="15" y="2444" width="754" height="494"/>
+	<SubTexture name="chuck slingshot left0000" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0001" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0002" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0003" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0004" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0005" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0006" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0007" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0008" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0009" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0010" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0011" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0012" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0013" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0014" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0015" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0016" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0017" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0018" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0019" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0020" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0021" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0022" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot left0023" x="784" y="2444" width="764" height="500"/>
+	<SubTexture name="chuck slingshot right0000" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0001" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0002" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0003" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0004" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0005" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0006" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0007" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0008" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0009" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0010" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0011" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0012" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0013" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0014" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0015" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0016" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0017" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0018" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0019" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0020" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0021" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0022" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot right0023" x="1563" y="2444" width="753" height="498"/>
+	<SubTexture name="chuck slingshot up0000" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0001" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0002" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0003" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0004" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0005" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0006" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0007" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0008" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0009" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0010" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0011" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0012" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0013" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0014" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0015" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0016" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0017" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0018" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0019" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0020" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0021" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0022" x="2331" y="2444" width="750" height="505"/>
+	<SubTexture name="chuck slingshot up0023" x="2331" y="2444" width="750" height="505"/>
+</TextureAtlas>

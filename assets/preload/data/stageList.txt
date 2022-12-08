@@ -1,9 +1,8 @@
 stage
-spooky
-philly
-limo
-mall
-mallEvil
-school
-schoolEvil
-tank
+AB Stage Day
+AB Stage Space
+Cobalt Plateaus
+redcabin
+Tero-Void
+Void
+zantaStage

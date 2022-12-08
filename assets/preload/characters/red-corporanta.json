@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Red Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-2
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Red alt Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Red Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Red Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Red Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Red Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-96,
+				9
+			],
+			"anim": "yell",
+			"fps": 24,
+			"name": "Red Yell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "annoyed",
+			"fps": 24,
+			"name": "Red Annoyed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-1
+			],
+			"anim": "idiot",
+			"fps": 24,
+			"name": "Red idiot",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Classic Red miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Classic Red miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Classic Red miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Classic Red miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zanta/Red",
+	"position": [
+		20,
+		10
+	],
+	"healthicon": "red",
+	"flip_x": true,
+	"healthbar_colors": [
+		215,
+		0,
+		42
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

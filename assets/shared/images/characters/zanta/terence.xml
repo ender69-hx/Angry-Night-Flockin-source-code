@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="terence.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="terence alt0000" x="15" y="15" width="1053" height="935"/>
+	<SubTexture name="terence bald0000" x="1083" y="15" width="1053" height="935"/>
+	<SubTexture name="terence hurt0000" x="2151" y="15" width="1053" height="935"/>
+	<SubTexture name="terence hurt0001" x="2151" y="15" width="1053" height="935"/>
+	<SubTexture name="terence hurt0002" x="15" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0003" x="15" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0004" x="1083" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0005" x="1083" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0006" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0007" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0008" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0009" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0010" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0011" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0012" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0013" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0014" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0015" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence hurt0016" x="2151" y="965" width="1053" height="935"/>
+	<SubTexture name="terence00000" x="15" y="1915" width="1053" height="935"/>
+</TextureAtlas>

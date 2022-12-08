@@ -1,48 +1,50 @@
 {
 	"songs": [
 		[
-			"Ugh",
-			"tankman",
+			"Bopeebo",
+			"dad",
 			[
-				246,
-				182,
-				4
+				146,
+				113,
+				253
 			]
 		],
 		[
-			"Guns",
-			"tankman",
+			"Fresh",
+			"dad",
 			[
-				246,
-				182,
-				4
+				146,
+				113,
+				253
 			]
 		],
 		[
-			"Stress",
-			"tankman",
+			"Dad Battle",
+			"dad",
 			[
-				246,
-				182,
-				4
+				146,
+				113,
+				253
 			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "tank",
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": true,
+	"weekBackground": "stage",
+	"difficulties": "",
 	"weekCharacters": [
-		"tankman",
+		"dad",
 		"bf",
 		"gf"
 	],
-	"storyName": "Tankman",
-	"weekName": "Week 7",
+	"storyName": "Your New Week",
+	"weekName": "Custom Week",
 	"freeplayColor": [
 		146,
 		113,
 		253
 	],
-	"hideStoryMode": false,
-	"weekBefore": "week6",
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
 	"startUnlocked": true
 }
